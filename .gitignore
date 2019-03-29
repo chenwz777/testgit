@@ -1,2 +1,15 @@
-.gitignore
-README.md
+.idea/
+*/.settings/
+*.idea
+.DS_Store
+**/.iml*
+*.iml
+**/.class
+**/.classpath
+**/.project
+*/target/
+target/
+*.ipr
+*.iws
+antx.properties
+output/
